@@ -1,7 +1,10 @@
 // alert("hello") this alert acts as an indicator of response from function 
+
+
+// PUll hour from computer 
 const v= new Date()
 let hour= v.getHours()
-hour= 16
+
 
 
 // This acts as the switch to determine when each section turns red  
